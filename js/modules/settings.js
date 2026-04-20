@@ -7,7 +7,7 @@ import { setConsoleTheme } from './console.js';
 
 export const defaults = {
   settings: {
-    theme: 'ace/theme/tomorrow_night',
+    theme: 'ace/theme/chrome',
     keyboardHandler: null,
     fontSize: 18,
     tabSize: 2,
