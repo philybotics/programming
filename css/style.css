@@ -305,4 +305,6 @@ input.dialog-input[type] {
 #console-container.dark .key           { color: rgb(170,129,177); }
 #console-container.dark .keyword       { color: grey; }
 #console-container.dark .array.syntax  { color: lightsalmon; }
-
+/* ===== PHILYBOTICS CUSTOM — Hide unwanted elements ===== */
+#brand { display: none !important; }
+.loader-logo-container { display: none !important; }
